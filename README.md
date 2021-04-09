@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Angular7+ & React Projects
 - 👯 I’m looking to collaborate on Angular, React, Vuejs, UI&UX Projects
-- 💬 Ask me about CSS Arhitecture, Javascript, Efficient Communication, Team leading, Negociation, Communication with Confidence, Time Mangement
+- 💬 Ask me about CSS Arhitecture, Javascript, Efficient Communication, Team Leading, Negociation, Communication with Confidence, Time Mangement
 
 ### 🌟 [About Me](cosmina-palade.com)
 Create one-of-a-kind development and high impact digital experiences that promote sales, increase conversions rates, and create easy & intuitive UX and UI.I am about creating high quality, accessible and performant websites. My journey starts with improving, develop and grow, unlocking design potential to contribute and achieve greatness in deliverables and final result.
