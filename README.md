@@ -1,6 +1,6 @@
 ###  👋 Hiya | Hallo | Olá | Ahlan | Bonjour
 
-- 🔭 I’m currently working on Angular7+ & React Projects
+- 🔭 I’m currently working on Angular10 & React Projects
 - 👯 I’m looking to collaborate on Angular, React, Vuejs, UI&UX Projects
 - 💬 Ask me about CSS Arhitecture, Javascript, Efficient Communication, Team Leading, Negociation, Communication with Confidence, Time Mangement
 
