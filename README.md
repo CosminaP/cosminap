@@ -8,9 +8,9 @@
 Create one-of-a-kind development and high impact digital experiences that promote sales, increase conversions rates, and create easy & intuitive UX and UI.I am about creating high quality, accessible and performant websites. My journey starts with improving, develop and grow, unlocking design potential to contribute and achieve greatness in deliverables and final result.
 
 ### 🌟 FE & UX-UI PROJECTS include:
-- [Cosmina's Kitchen Adventures](cosminanutrition.org)
-- [Cosmina Palade official website](cosmina-palade.com)
-- [Remote Creative Team official website](remotecreativeteam.com)
+- [Cosmina's Kitchen Adventures](https://cosminanutrition.wordpress.com/)
+- [Cosmina Palade official website](https://cosmina-palade.com/)
+- [Remote Creative Team official website](https://www.remotecreativeteam.com/)
 - [Online Vending Machine App](https://cosminap.github.io/vending-machine)
 - [UI & UX design for Konnect Chat App Prototype](https://cosmina-palade.com/Designs/Konnect.jpg)
 - [UI & UX design for Remote Team App Mock](https://cosmina-palade.com/Designs/RemoteTeamApp.jpg)
