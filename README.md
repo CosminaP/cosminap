@@ -10,7 +10,7 @@ Create one-of-a-kind development and high impact digital experiences that promot
 ### 🌟 FE & UX-UI PROJECTS include:
 - [Cosmina's Kitchen Adventures](https://cosminanutrition.wordpress.com/)
 - [Cosmina Palade official website](https://cosmina-palade.com/)
-- [Remote Creative Team official website](https://www.remotecreativeteam.com/)
+- [Remote Team official website](https://www.remotecreativeteam.com/)
 - [Online Vending Machine App](https://cosminap.github.io/vending-machine)
 - [UI & UX design for Konnect Chat App Prototype](https://cosmina-palade.com/Designs/Konnect.jpg)
 - [UI & UX design for Remote Team App Mock](https://cosmina-palade.com/Designs/RemoteTeamApp.jpg)
