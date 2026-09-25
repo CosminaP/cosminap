@@ -1,13 +1,26 @@
 ### 👋 Hi, I'm Cosmina Palade
 
-**Senior Full-Stack Engineer** · React · Node · TypeScript · DevOps · RAG / AI on LLMs
+**Senior Full-Stack Engineer · Published Author · Founder of 3 live products**
+React · Node · TypeScript · DevOps · RAG / AI on LLMs
 10 years in enterprise banking, fintech and SaaS · Remote contracts for EU & US teams
 
 I ship products that work from day one. Not mockups, not prototypes that need "one more sprint": working software in production from the first release, tested, fast, secure and polished down to the last screen. I write the code, design the flow and architect the system, so you get one senior owner, a demo every week and a product your customers can use the day it launches.
 
+📖 **Published author:** my first book, **[The Architect Protocol](https://www.amazon.com/dp/B0GHSL3WDK)**, came out in January 2026. Two more follow: *Veins of Gold* in October 2026 and *The Narrative-Transformational Coach* in January 2027.
+
 🌐 **[cosminapalade.com](https://cosminapalade.com)**
 
 ---
+
+### 📚 Books
+
+| | Book | Status |
+| --- | --- | --- |
+| **I** | **[The Architect Protocol](https://www.amazon.com/dp/B0GHSL3WDK)**<br>How Tech Leaders Escape Burnout, Reclaim Focus, and Build Sustainable Systems | ✅ **Published January 2026** · [Available on Amazon](https://www.amazon.com/dp/B0GHSL3WDK) |
+| **II** | **Veins of Gold**<br>A Protocol for Conscious Reconstruction | 🗓️ Coming October 2026 |
+| **III** | **The Narrative-Transformational Coach**<br>When You Change Who You Are, Everything Changes | 🗓️ Coming January 2027 |
+
+The same systems thinking I use in engineering, applied to people: burnout, psychological reconstruction and the CNT coaching methodology.
 
 ### 🌐 My sites & products, live
 
@@ -18,13 +31,6 @@ I ship products that work from day one. Not mockups, not prototypes that need "o
 | **[CNT Coach & CoachMind](https://cntcoach.com)** | Coaching platform: 1:1 CNT coaching plus CoachMind, a roadmap builder, client evolution tracker and session memory for coaches. |
 | **[MedCoord](https://medcoord.net)** | Clinic coordination: appointments, doctors, patients and cross-department workflows in one shared view. |
 | **[Cosmina's Kitchen Adventures](https://cosminanutrition.wordpress.com/)** | My healthy cooking and nutrition blog. |
-
-
-## 📚 Books
-
-- **[The Architect Protocol](https://www.amazon.com/dp/B0GHSL3WDK)**: How Tech Leaders Escape Burnout, Reclaim Focus, and Build Sustainable Systems. *Available on Amazon.*
-- **Veins of Gold**: A Protocol for Conscious Reconstruction. *Coming October 2026.*
-- **The Narrative-Transformational Coach**: When You Change Who You Are, Everything Changes. *Coming soon.*
 
 ### 🛠️ What I do
 
@@ -50,5 +56,6 @@ I ship products that work from day one. Not mockups, not prototypes that need "o
 - 📧 **Email:** [contact@ethicaldesign.info](mailto:contact@ethicaldesign.info)
 - 📅 **Book a 30-min call:** [calendly.com/cosmina_palade](https://calendly.com/cosmina_palade/new-meeting)
 - 💼 **LinkedIn:** [linkedin.com/in/cosminapalade](https://www.linkedin.com/in/cosminapalade/)
+- 📖 **Books:** [The Architect Protocol on Amazon](https://www.amazon.com/dp/B0GHSL3WDK)
 
 📍 Romania (EET) · English & Romanian · I reply within one business day.
