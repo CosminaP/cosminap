@@ -19,15 +19,8 @@ I ship products that work from day one. Not mockups, not prototypes that need "o
 | **[MedCoord](https://medcoord.net)** | Clinic coordination: appointments, doctors, patients and cross-department workflows in one shared view. |
 | **[Cosmina's Kitchen Adventures](https://cosminanutrition.wordpress.com/)** | My healthy cooking and nutrition blog. |
 
-### 🧪 Earlier projects & experiments
 
-- **[Remote Creative Team](https://www.remotecreativeteam.com/)** | Official site of the Remote Creative Team.
-- **[Vending Machine App](https://cosminap.github.io/vending-machine)**: online vending machine (jQuery, CSS3, HTML)
-- **[Booking App: Exciting Tours](https://github.com/Portfolio-Projects/Exciting-Tours)**: tour booking app (Node, SCSS)
-- **[Laptop Store App](https://github.com/Portfolio-Projects/NodeJs-Project---Laptop-Store)**: Node.js store (Node, JS, SCSS)
-- **[Food Recipes App](https://github.com/Portfolio-Projects/Food-Recipes-Project)**: recipe search app (ES6, SCSS)
-
-### 📚 Books
+## 📚 Books
 
 - **[The Architect Protocol](https://www.amazon.com/dp/B0GHSL3WDK)**: How Tech Leaders Escape Burnout, Reclaim Focus, and Build Sustainable Systems. *Available on Amazon.*
 - **Veins of Gold**: A Protocol for Conscious Reconstruction. *Coming October 2026.*
