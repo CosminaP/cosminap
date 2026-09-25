@@ -17,12 +17,11 @@ I ship products that work from day one. Not mockups, not prototypes that need "o
 | **[Architect Dashboard](https://architectdashboard.com)** | Leadership diagnostics: see where your energy leaks and what to do about it, in 2 minutes. Quick and deep quizzes, team diagnostics and progress tracking. |
 | **[CNT Coach & CoachMind](https://cntcoach.com)** | Coaching platform: 1:1 CNT coaching plus CoachMind, a roadmap builder, client evolution tracker and session memory for coaches. |
 | **[MedCoord](https://medcoord.net)** | Clinic coordination: appointments, doctors, patients and cross-department workflows in one shared view. |
-| **[Dulciuri Sănătoase](https://dulciurisanatoase.com/)** | My healthy desserts blog: recipes and nutrition. |
-| **[Remote Creative Team](https://www.remotecreativeteam.com/)** | Official site of the Remote Creative Team. |
 | **[Cosmina's Kitchen Adventures](https://cosminanutrition.wordpress.com/)** | My healthy cooking and nutrition blog. |
 
 ### 🧪 Earlier projects & experiments
 
+- **[Remote Creative Team](https://www.remotecreativeteam.com/)** | Official site of the Remote Creative Team.
 - **[Vending Machine App](https://cosminap.github.io/vending-machine)**: online vending machine (jQuery, CSS3, HTML)
 - **[Booking App: Exciting Tours](https://github.com/Portfolio-Projects/Exciting-Tours)**: tour booking app (Node, SCSS)
 - **[Laptop Store App](https://github.com/Portfolio-Projects/NodeJs-Project---Laptop-Store)**: Node.js store (Node, JS, SCSS)
