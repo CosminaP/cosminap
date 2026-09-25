@@ -16,7 +16,7 @@ I ship products that work from day one. Not mockups, not prototypes that need "o
 
 | | Book | Status |
 | --- | --- | --- |
-| **I** | **[The Architect Protocol](https://www.amazon.com/dp/B0GHSL3WDK)**<br>How Tech Leaders Escape Burnout, Reclaim Focus, and Build Sustainable Systems | ✅ **Published January 2026** · [Available on Amazon](https://www.amazon.com/dp/B0GHSL3WDK) |
+| **I** | **[The Architect Protocol](https://www.amazon.com/dp/B0GHSL3WDK)**<br>How Tech Leaders Escape Burnout, Reclaim Focus, and Build Sustainable Systems | ✅ **Published 20 January 2026** · [Available on Amazon](https://www.amazon.com/dp/B0GHSL3WDK) |
 | **II** | **Veins of Gold**<br>A Protocol for Conscious Reconstruction | 🗓️ Coming October 2026 |
 | **III** | **The Narrative-Transformational Coach**<br>When You Change Who You Are, Everything Changes | 🗓️ Coming January 2027 |
 
