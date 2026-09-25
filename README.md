@@ -5,7 +5,7 @@
 
 I ship products that work from day one. Not mockups, not prototypes that need "one more sprint": working software in production from the first release, tested, fast, secure and polished down to the last screen. I write the code, design the flow and architect the system, so you get one senior owner, a demo every week and a product your customers can use the day it launches.
 
-🌐 **[cosmina-palade.com](https://cosmina-palade.com)**
+🌐 **[cosmina-palade.com](https://cosminapalade.com)**
 
 ---
 
@@ -13,7 +13,7 @@ I ship products that work from day one. Not mockups, not prototypes that need "o
 
 | Site | What it is |
 | --- | --- |
-| **[cosmina-palade.com](https://cosmina-palade.com)** | My official site: services, case studies, products, books and how to work with me. |
+| **[cosmina-palade.com](https://cosminapalade.com)** | My official site: services, case studies, products, books and how to work with me. |
 | **[Architect Dashboard](https://architectdashboard.com)** | Leadership diagnostics: see where your energy leaks and what to do about it, in 2 minutes. Quick and deep quizzes, team diagnostics and progress tracking. |
 | **[CNT Coach & CoachMind](https://cntcoach.com)** | Coaching platform: 1:1 CNT coaching plus CoachMind, a roadmap builder, client evolution tracker and session memory for coaches. |
 | **[MedCoord](https://medcoord.net)** | Clinic coordination: appointments, doctors, patients and cross-department workflows in one shared view. |
